@@ -1,0 +1,12 @@
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\bin\Debug\net5.0\TestCenter.Core.deps.json
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\bin\Debug\net5.0\TestCenter.Core.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\bin\Debug\net5.0\ref\TestCenter.Core.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\bin\Debug\net5.0\TestCenter.Core.pdb
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\TestCenter.Core.csproj.AssemblyReference.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\TestCenter.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\TestCenter.Core.AssemblyInfoInputs.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\TestCenter.Core.AssemblyInfo.cs
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\TestCenter.Core.csproj.CoreCompileInputs.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\TestCenter.Core.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\ref\TestCenter.Core.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\net5.0\TestCenter.Core.pdb

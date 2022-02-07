@@ -1,0 +1,15 @@
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\bin\Debug\net5.0\TestCenter.Data.deps.json
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\bin\Debug\net5.0\TestCenter.Data.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\bin\Debug\net5.0\ref\TestCenter.Data.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\bin\Debug\net5.0\TestCenter.Data.pdb
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\bin\Debug\net5.0\TestCenter.Core.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\bin\Debug\net5.0\TestCenter.Core.pdb
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.csproj.AssemblyReference.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.AssemblyInfoInputs.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.AssemblyInfo.cs
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.csproj.CoreCompileInputs.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.csproj.CopyComplete
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\ref\TestCenter.Data.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Data\obj\Debug\net5.0\TestCenter.Data.pdb

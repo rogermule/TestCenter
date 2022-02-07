@@ -1,0 +1,10 @@
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\bin\Debug\netcoreapp3.1\TestCenter.Core.deps.json
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\bin\Debug\netcoreapp3.1\TestCenter.Core.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\bin\Debug\netcoreapp3.1\TestCenter.Core.pdb
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\netcoreapp3.1\TestCenter.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\netcoreapp3.1\TestCenter.Core.AssemblyInfoInputs.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\netcoreapp3.1\TestCenter.Core.AssemblyInfo.cs
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\netcoreapp3.1\TestCenter.Core.csproj.CoreCompileInputs.cache
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\netcoreapp3.1\TestCenter.Core.dll
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\netcoreapp3.1\TestCenter.Core.pdb
+C:\Users\Roger\source\TestCenter\TestCenter\TestCenter.Core\obj\Debug\netcoreapp3.1\TestCenter.Core.csproj.AssemblyReference.cache

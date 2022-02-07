@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08da1348-5ead-4d5f-b9ec-0ce491394440": {
+      "ProjectGuid": "08da1348-5ead-4d5f-b9ec-0ce491394440",
+      "DisplayName": "TestCenter",
+      "ColorIndex": 0
+    },
+    "baa67516-d1ea-4b41-aa7f-4508c2492f95": {
+      "ProjectGuid": "baa67516-d1ea-4b41-aa7f-4508c2492f95",
+      "DisplayName": "TestCenter.Core",
+      "ColorIndex": 1
+    },
+    "d0411f9b-9bb2-45ab-a413-7bed0d2db9a5": {
+      "ProjectGuid": "d0411f9b-9bb2-45ab-a413-7bed0d2db9a5",
+      "DisplayName": "TestCenter.Data",
+      "ColorIndex": 2
+    },
+    "85e49f8a-2cb6-4147-aa36-8ea4962ea4ed": {
+      "ProjectGuid": "85e49f8a-2cb6-4147-aa36-8ea4962ea4ed",
+      "DisplayName": "TestCenter.Data",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
